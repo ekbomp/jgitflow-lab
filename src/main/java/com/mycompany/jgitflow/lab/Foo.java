@@ -2,7 +2,7 @@ package com.mycompany.jgitflow.lab;
 
 /**
  *
- * @author pem.
+ * @author pem..
  */
 public class Foo {
     
